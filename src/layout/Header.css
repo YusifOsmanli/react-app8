@@ -1,0 +1,19 @@
+.header__ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.header__div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__link{
+    text-decoration: none;
+}
+.header__input{
+    height: 30px;
+    width: 210px;
+    border-radius: 15px;
+    border: 1px solid grey;
+}
